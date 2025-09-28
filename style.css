@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(244, 225, 199);
+}
+dd{
+    margin-top: 20px;
+    margin-inline-start: 90px;
+    margin-right: 80px;
+    border: 2px  outset;
+    padding: 50px;
+
+}
+dt{
+    font-size: large;color: rgb(49, 10, 85);margin-top: 40px;margin-left: 30px;
+}
+.a:visited{
+    color: rgb(21, 205, 82);
+}
+ table{
+    margin-top: 60px;
+    margin-left: 100px;
+}
+ table, th, td {
+      border: 2px solid black; /* thickness | style | color */
+      border-collapse: collapse; /* merges double borders */
+      padding: 8px; /* space inside cells */
+    }
